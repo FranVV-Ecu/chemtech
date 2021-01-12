@@ -2,4 +2,4 @@
 *.pdf
 *.env
 /.ipynb_checkpoints
-
+/catboost_info
